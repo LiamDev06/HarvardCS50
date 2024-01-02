@@ -5,8 +5,8 @@
 
 ## About
 This repository contains my code snippets and personal solutions to problem sets from the 2024 Harvard CS50x course. CS50x is an online version of Harvard University's introductory computer science course, offered through [edX](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science).
-Despite being online, it offers the same experience as someone who takes it in-class regarding lecture material, notes, problem sets and more. 
-**This is not meant** to be a way of providing others with completed solutions to the course, but rather a way for me to showcase my personal computer science and programming knowledge.
+Despite being online, it offers the same experience as someone who takes it in-person when it comes to lecture material, notes, problem sets and more. 
+**This is not meant** to be a way of providing others with completed solutions to the course, but rather a way for me to showcase my personal computer science and programming skills and knowledge.
 
 ## Course Overview
 ### Week 0: Scratch
@@ -42,9 +42,9 @@ Despite being online, it offers the same experience as someone who takes it in-c
 
 ## Repository Structure
 The repository consists of directories for each week structured in the following way:
-- `week-X:` Contains everything related to that week of the course whether it is notes, code snippets or problem sets.
-  - `lecture:` Smaller code snippets and other text written by me during the lectures. 
-  - `problem-set:` Solutions and code for this week's problem sets.
+- `week-X`**:** Contains everything related to that week of the course whether it is notes, code snippets or problem sets.
+  - `lecture`**:** Smaller code snippets and other text written by me while watching this week's lecture. 
+  - `problem-set`**:** Solutions and code for this week's problem sets.
 
 ## Getting Started
 If you are currently taking CS50x or just interested in exploring the code, feel free to navigate through the directories corresponding to each week or problem set. 
