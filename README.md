@@ -20,25 +20,25 @@ Despite being online, it offers the same experience as someone who takes it in-p
 ### Week 3: Algorithms
 - [Problem Set: Tideman](https://cs50.harvard.edu/x/2024/psets/3/tideman/)
 ### Week 4: Memory
-- [Problem Set #1: Filter](https://cs50.harvard.edu/x/2024/psets/4/filter/more/)
-- [Problem Set #2: Recover](https://cs50.harvard.edu/x/2024/psets/4/recover/)
+- [Problem Set 1: Filter](https://cs50.harvard.edu/x/2024/psets/4/filter/more/)
+- [Problem Set 2: Recover](https://cs50.harvard.edu/x/2024/psets/4/recover/)
 ### Week 5: Data Structures
-- [Problem Set #1: Inheritance](https://cs50.harvard.edu/x/2024/psets/5/inheritance/)
-- [Problem Set #2: Speller](https://cs50.harvard.edu/x/2024/psets/5/speller/)
+- [Problem Set 1: Inheritance](https://cs50.harvard.edu/x/2024/psets/5/inheritance/)
+- [Problem Set 2: Speller](https://cs50.harvard.edu/x/2024/psets/5/speller/)
 ### Week 6: Python
-- [Problem Set #1: Credit](https://cs50.harvard.edu/x/2024/psets/6/credit/)
-- [Problem Set #2: Readability](https://cs50.harvard.edu/x/2024/psets/6/readability/)
-- [Problem Set #3: DNA](https://cs50.harvard.edu/x/2024/psets/6/dna/)
+- [Problem Set 1: Credit](https://cs50.harvard.edu/x/2024/psets/6/credit/)
+- [Problem Set 2: Readability](https://cs50.harvard.edu/x/2024/psets/6/readability/)
+- [Problem Set 3: DNA](https://cs50.harvard.edu/x/2024/psets/6/dna/)
 ### Week 7: SQL
-- [Problem Set #1: Songs](https://cs50.harvard.edu/x/2024/psets/7/songs/)
-- [Problem Set #2: Movies](https://cs50.harvard.edu/x/2024/psets/7/movies/)
-- [Problem Set #3: Fiftyville](https://cs50.harvard.edu/x/2024/psets/7/fiftyville/)
+- [Problem Set 1: Songs](https://cs50.harvard.edu/x/2024/psets/7/songs/)
+- [Problem Set 2: Movies](https://cs50.harvard.edu/x/2024/psets/7/movies/)
+- [Problem Set 3: Fiftyville](https://cs50.harvard.edu/x/2024/psets/7/fiftyville/)
 ### Week 8: HTML, CSS, JavaScript
-- [Problem Set #1: Trivia](https://cs50.harvard.edu/x/2024/psets/8/trivia/)
-- [Problem Set #2: Homepage](https://cs50.harvard.edu/x/2024/psets/8/homepage/)
+- [Problem Set 1: Trivia](https://cs50.harvard.edu/x/2024/psets/8/trivia/)
+- [Problem Set 2: Homepage](https://cs50.harvard.edu/x/2024/psets/8/homepage/)
 ### Week 9: Flask
-- [Problem Set #1: Birthdays](https://cs50.harvard.edu/x/2024/psets/9/birthdays/)
-- [Problem Set #2: Finance](https://cs50.harvard.edu/x/2024/psets/9/finance/)
+- [Problem Set 1: Birthdays](https://cs50.harvard.edu/x/2024/psets/9/birthdays/)
+- [Problem Set 2: Finance](https://cs50.harvard.edu/x/2024/psets/9/finance/)
 ### Week 10: Cybersecurity
 - [Final Project](https://cs50.harvard.edu/x/2024/project/)
 
