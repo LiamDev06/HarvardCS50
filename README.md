@@ -1,4 +1,4 @@
-# Harvard CS50x
+<h1 align="center">Harvard CS50</h1>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1191408781645578342/1191829715707773078/harvard-logo-transparent.png?ex=65a6dceb&is=659467eb&hm=ddc819d4abb0b64638b1c726a8207f0aae5427d11281a5f58c1edb5925963369&" width="400" height="400" alt="Harvard Logo">
 </p>
