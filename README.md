@@ -3,7 +3,7 @@
   <img src="https://cdn.discordapp.com/attachments/1191408781645578342/1191829715707773078/harvard-logo-transparent.png?ex=65a6dceb&is=659467eb&hm=ddc819d4abb0b64638b1c726a8207f0aae5427d11281a5f58c1edb5925963369&" width="400" height="400" alt="Harvard Logo">
 </p>
 
-> *This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience.* - [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+> *This is CS50x, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience.* - [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
 ## About
 This repository contains my code snippets and personal solutions to problem sets from the 2024 Harvard CS50x course. CS50x is an online version of Harvard University's introductory computer science course, offered through [edX](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science).
