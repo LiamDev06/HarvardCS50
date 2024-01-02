@@ -1,5 +1,7 @@
 # Harvard CS50x
-<img src="https://cdn.discordapp.com/attachments/1191408781645578342/1191829715707773078/harvard-logo-transparent.png?ex=65a6dceb&is=659467eb&hm=ddc819d4abb0b64638b1c726a8207f0aae5427d11281a5f58c1edb5925963369&" width="300" height="300" alt="Harvard Logo">
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1191408781645578342/1191829715707773078/harvard-logo-transparent.png?ex=65a6dceb&is=659467eb&hm=ddc819d4abb0b64638b1c726a8207f0aae5427d11281a5f58c1edb5925963369&" width="400" height="400" alt="Harvard Logo">
+</p>
 
 > *This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience.* - [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
